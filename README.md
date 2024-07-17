@@ -1,5 +1,14 @@
-This is an exclusive Gaming Power Up NFT. To interact with this DApp, visit https://gaming-power-up.vercel.app/
+
+This is an exclusive Gaming Power Up NFT.
+
+To interact with this DApp, visit https://gaming-power-up.vercel.app/
 To see the erc721 contract, visit https://github.com/Juaan-Dvid/ERC721-Contract
+To watch the video explaining how it works, visit: https://youtu.be/F_qAKJwDhCc
+
+To see the contract deployed at arbitrum sepolia, visit: https://sepolia.arbiscan.io/address/0x4778F2f86172029A8d2Ae44B16664209459208AA
+Contract address: 0x4778F2f86172029A8d2Ae44B16664209459208AA
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 # React + TypeScript + Vite
 
