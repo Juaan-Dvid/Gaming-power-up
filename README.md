@@ -1,3 +1,6 @@
+This is an exclusive Gaming Power Up NFT. To interact with this DApp, visit https://gaming-power-up.vercel.app/
+To see the erc721 contract, visit https://github.com/Juaan-Dvid/ERC721-Contract
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
